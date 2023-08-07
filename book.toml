@@ -1,0 +1,6 @@
+[book]
+authors = ["sakkke"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Adaptix Docs"
